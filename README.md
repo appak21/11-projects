@@ -4,9 +4,9 @@ In this _Go programming language course for beginners_, you will improve your Go
 This course is created by Akhil Sharma. <br>
 
 ### ⭐️Project list⭐️
-1. Build a simple web server with Golang
-2. Build a CRUD API with Golang
-3. Golang with MySQL book management system
+1. [Build a simple web server with Golang](https://github.com/appak21/11-projects/tree/main/1-simple-server)
+2. [Build a CRUD API with Golang](https://github.com/appak21/11-projects/tree/main/2-movies-crud)
+3. [Golang with MySQL book management system](https://github.com/appak21/11-projects/tree/main/3-bookstore)
 4. Simple SlackBot to calculate age
 5. Golang SlackBot for file uploading
 6. Email verifier tool with Golang
