@@ -34,11 +34,11 @@ func GetAllBooks() []Book {
 
 func GetBookByID(ID int64) (*Book, *gorm.DB) {
 	var getBook Book
-	db := db.Where("ID=?", ID).Find(&getBook) //is it like optionals in JS? Find() has 2 params, but gets 1 here
+	db := db.Where("ID=?", ID).Find(&getBook)
 	return &getBook, db
 }
 
-func DeleteBook(ID int64) Book { //will it return deleted book?
+func DeleteBook(ID int64) Book {
 	var book Book
 	db.Where("ID=?", ID).Delete(book)
 	return book
