@@ -8,7 +8,7 @@ This course is created by [Akhil Sharma](https://github.com/AkhilSharma90). <br>
 2. [Build a CRUD API with Golang](https://github.com/appak21/11-projects/tree/main/movies-crud)
 3. [Golang with MySQL book management system](https://github.com/appak21/11-projects/tree/main/bookstore)
 4. [Simple SlackBot to calculate age](https://github.com/appak21/11-projects/tree/main/slack-age-bot)
-5. Golang SlackBot for file uploading
+5. [Golang SlackBot for file uploading](https://github.com/appak21/11-projects/tree/main/slack-file-bot)
 6. Email verifier tool with Golang
 7. AWS Lambda with Golang
 8. CRM with Golang Fiber
