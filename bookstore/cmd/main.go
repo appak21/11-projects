@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/appak21/11-projects/3-bookstore/pkg/routes"
+	"github.com/appak21/11-projects/bookstore/pkg/routes"
 	"github.com/gorilla/mux"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
