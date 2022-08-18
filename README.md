@@ -12,6 +12,6 @@ This course is created by [Akhil Sharma](https://github.com/AkhilSharma90). <br>
 6. [Email verifier tool with Golang](https://github.com/appak21/11-projects/tree/main/email-checker-tool)
 7. [AWS Lambda with Golang](https://github.com/appak21/11-projects/tree/main/lambda-yt-example)
 8. [CRM with Golang Fiber](https://github.com/appak21/11-projects/tree/main/go-fiber-crm-basic)
-9. HRMS with Golang Fiber
+9. [HRMS with Golang Fiber](https://github.com/appak21/11-projects/tree/main/go-fiber-mongo-hrms)
 10. Complete Serverless Stack
 11. AI Bot with Wolfram, Wit.ai and Golang
