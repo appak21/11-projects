@@ -8,8 +8,8 @@ import (
 )
 
 func main() {
-	os.Setenv("SLACK_BOT_TOKEN", "xoxb-3885259820230-3916157698976-JyJg8dwsZRMky9m3OwKovN3A")
-	os.Setenv("CHANNEL_ID", "C03S7RNPTGS")
+	os.Setenv("SLACK_BOT_TOKEN", "")
+	os.Setenv("CHANNEL_ID", "")
 	api := slack.New(os.Getenv("SLACK_BOT_TOKEN"))
 	channelArr := []string{os.Getenv("CHANNEL_ID")}
 	fileArr := []string{"github-pic.jpg", "ASCII.jpg"}
