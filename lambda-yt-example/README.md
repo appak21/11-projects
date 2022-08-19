@@ -2,7 +2,7 @@
 
 [YouTube video](https://www.youtube.com/watch?v=Czny2I2uGJA)
 
-[All commands can be found here](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-awscli.html)
+All commands can be found [here](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-awscli.html)
 
 If you get an error like below,
 ```
@@ -11,5 +11,8 @@ If you get an error like below,
   "errorType": "PathError"
 }
 ```
-try to build your go file with the following command <br>
-`GOARCH=amd64 GOOS=linux go build main.go`
+try to build your go file with the following command
+```
+GOARCH=amd64 GOOS=linux go build main.go
+zip function.zip main
+```
